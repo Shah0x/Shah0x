@@ -24,7 +24,7 @@ I'm currently a Computer Science student who's diving deep into the world of web
 I love connecting with other developers — whether you're just starting or far ahead in the journey.
 
 📫 Email: shahmeerx002@gmail.com   
-🔗 LinkedIn: linkedin.com/in/shahmeer-akram-0b080b343
+🔗 LinkedIn: www.linkedin.com/in/shahmeer-akram-0b080b343
 🌐 Portfolio: (coming soon!)
 
 ---
