@@ -2,9 +2,9 @@
 
 **MERN Stack Developer · AI-Enabled Solutions**
 
-Web developer with 6 months of project-based professional experience, focused on building practical applications with **React, Node.js, Express.js, and MongoDB**. Experience spans modern frontend development, REST APIs, responsive interfaces, data-driven applications, and business-focused web solutions.
+Web developer with 6 months of project-based professional experience, focused on building practical applications with **React, Node.js, Express.js, and MongoDB**. Experience includes modern frontend development, REST APIs, responsive interfaces, data-driven applications, and business-focused web solutions.
 
-Currently expanding into **Python, Data Structures & Algorithms, and software engineering**, with a long-term engineering focus on **Cloud and DevOps**.
+Currently developing stronger foundations in **Python, Data Structures & Algorithms, and software engineering**, with a long-term focus on **Cloud and DevOps Engineering**.
 
 **BSCS ’28 · KASBIT · Karachi, Pakistan · CGPA 3.34/4.00**
 
@@ -12,10 +12,10 @@ Currently expanding into **Python, Data Structures & Algorithms, and software en
 
 [![React](https://img.shields.io/badge/React-2026?style=flat-square\&logo=react\&logoColor=61DAFB)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-2026?style=flat-square\&logo=node.js\&logoColor=339933)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express.js-2026?style=flat-square\&logo=express\&logoColor=white)](https://expressjs.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-2026?style=flat-square\&logo=express\&logoColor=ffffff)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-2026?style=flat-square\&logo=mongodb\&logoColor=47A248)](https://www.mongodb.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B?style=flat-square\&logo=javascript\&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x?style=flat-square\&logo=typescript\&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-2026?style=flat-square\&logo=typescript\&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)](https://tailwindcss.com/)
 [![Git](https://img.shields.io/badge/Git-Version_Control?style=flat-square\&logo=git\&logoColor=F05032)](https://git-scm.com/)
 
