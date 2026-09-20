@@ -1,44 +1,55 @@
+<div align="center">
+
 # Shahmeer Akram
 
-**MERN Stack Developer · AI-Enabled Solutions**
+### MERN Stack Developer · AI-Enabled Solutions
 
-Web developer with 6 months of project-based professional experience, focused on building practical applications with **React, Node.js, Express.js, and MongoDB**. Experience includes modern frontend development, REST APIs, responsive interfaces, data-driven applications, and business-focused web solutions.
+**React · Node.js · Express.js · MongoDB**
 
-Currently developing stronger foundations in **Python, Data Structures & Algorithms, and software engineering**, with a long-term focus on **Cloud and DevOps Engineering**.
+[LinkedIn](https://www.linkedin.com/in/shahmeer-akram) · [Portfolio](https://shahmeer-akram-portfolio-sepia.vercel.app/) · [GitHub](https://github.com/Shah0x) · [Email](mailto:shahmeerx002@gmail.com)
+
+</div>
+
+---
+
+Web developer with **6 months of project-based professional experience**, focused on building practical web applications across the **MERN stack**. Experience includes React-based interfaces, Node.js and Express.js backends, REST APIs, MongoDB data layers, responsive UI, and business-focused workflows.
+
+Currently developing stronger foundations in **Python, Data Structures & Algorithms, and software engineering**, with a long-term engineering direction toward **Cloud and DevOps**.
 
 **BSCS ’28 · KASBIT · Karachi, Pakistan · CGPA 3.34/4.00**
 
-<br>
+---
 
-[![React](https://img.shields.io/badge/React-2026?style=flat-square\&logo=react\&logoColor=61DAFB)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-2026?style=flat-square\&logo=node.js\&logoColor=339933)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-2026?style=flat-square\&logo=express\&logoColor=ffffff)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-2026?style=flat-square\&logo=mongodb\&logoColor=47A248)](https://www.mongodb.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B?style=flat-square\&logo=javascript\&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-2026?style=flat-square\&logo=typescript\&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)](https://tailwindcss.com/)
-[![Git](https://img.shields.io/badge/Git-Version_Control?style=flat-square\&logo=git\&logoColor=F05032)](https://git-scm.com/)
+## Technology
+
+<div align="center">
+
+[![React](https://img.shields.io/badge/React-2026?style=for-the-badge\&logo=react\&logoColor=61DAFB\&labelColor=111827)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E\&labelColor=111827)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-2026?style=for-the-badge\&logo=typescript\&logoColor=3178C6\&labelColor=111827)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-2026?style=for-the-badge\&logo=node.js\&logoColor=339933\&labelColor=111827)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-2026?style=for-the-badge\&logo=express\&logoColor=FFFFFF\&labelColor=111827)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-2026?style=for-the-badge\&logo=mongodb\&logoColor=47A248\&labelColor=111827)](https://www.mongodb.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2026?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4\&labelColor=111827)](https://tailwindcss.com/)
+[![Git](https://img.shields.io/badge/Git-Version_Control?style=for-the-badge\&logo=git\&logoColor=F05032\&labelColor=111827)](https://git-scm.com/)
+
+</div>
 
 ---
 
-## Professional Focus
+## Engineering Focus
 
-Current work centers on **MERN stack development and practical web applications**, connecting modern interfaces with backend services, databases, APIs, and business workflows.
+**MERN Development**
+Building full-stack applications with React, Node.js, Express.js, MongoDB, REST APIs, and modern JavaScript/TypeScript workflows.
 
-The longer-term engineering direction is **Cloud and DevOps**, building on software development experience through deeper work with Linux, networking, infrastructure, automation, deployment, and cloud platforms.
+**Practical Software**
+Working on applications that connect interfaces, backend services, structured data, and real business workflows.
 
----
+**Applied AI**
+Integrating AI APIs and AI-enabled features into software where they provide practical functionality.
 
-## Core Stack
-
-| Area            | Technologies                                                         |
-| :-------------- | :------------------------------------------------------------------- |
-| **Frontend**    | React · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Vite |
-| **Backend**     | Node.js · Express.js · REST APIs · Authentication                    |
-| **Database**    | MongoDB · MongoDB Atlas · Mongoose · Data Modeling                   |
-| **Development** | Git · GitHub · npm · Postman · Vercel                                |
-| **AI**          | AI API Integration · AI-Enabled Application Features                 |
-| **Developing**  | Python · Data Structures & Algorithms · Cloud & DevOps Fundamentals  |
+**Cloud & DevOps**
+Developing toward a long-term focus on Linux, networking, infrastructure, automation, deployment, and cloud platforms.
 
 ---
 
@@ -46,13 +57,13 @@ The longer-term engineering direction is **Cloud and DevOps**, building on softw
 
 ### Asset Management Systems
 
-MERN-based applications focused on asset tracking, lifecycle management, assignments, operational workflows, and structured business data.
+Web applications centered on asset tracking, lifecycle management, assignments, operational workflows, and structured business data.
 
 `React` `Node.js` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS`
 
 ### HR Management System
 
-Web application focused on employee workflows, organizational data, and administrative operations.
+Business-focused web application covering employee workflows, organizational data, and administrative operations.
 
 `React` `Node.js` `Express.js` `MongoDB` `TypeScript`
 
@@ -64,27 +75,23 @@ React-based e-commerce application focused on product presentation, responsive i
 
 ---
 
-## Experience
+## Professional Experience
 
-**Web Development — 6 Months Project-Based Professional Experience**
+**Web Development · 6 Months Project-Based Experience**
 
-Experience across React-based frontend development, responsive interfaces, modern JavaScript, business-focused web applications, Git/GitHub workflows, and practical project delivery.
+Experience across React development, responsive web interfaces, modern JavaScript, business-focused applications, Git/GitHub workflows, and practical project delivery.
 
 ---
 
 ## Current Development
 
-**Python**
-Programming, automation, and backend foundations.
+**Python** · Programming, automation, and backend foundations
 
-**Data Structures & Algorithms**
-Problem solving and technical interview preparation.
+**Data Structures & Algorithms** · Problem solving and technical interview preparation
 
-**Software Engineering**
-Stronger development practices, architecture fundamentals, and maintainable software.
+**Software Engineering** · Development practices, system fundamentals, and maintainable software
 
-**Cloud & DevOps**
-Long-term direction covering Linux, networking, infrastructure, automation, deployment, and cloud platforms.
+**Cloud & DevOps** · Linux, networking, infrastructure, automation, deployment, and cloud fundamentals
 
 ---
 
@@ -101,10 +108,12 @@ Completed
 
 ---
 
-## Connect
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/shahmeer-akram) · [Portfolio](https://shahmeer-akram-portfolio-sepia.vercel.app/) · [GitHub](https://github.com/Shah0x) · [Email](mailto:shahmeerx002@gmail.com)
+**Building practical software. Developing stronger engineering foundations.**
 
 <br>
 
-<sub>Building practical software today. Developing stronger engineering foundations for what comes next.</sub>
+[LinkedIn](https://www.linkedin.com/in/shahmeer-akram) · [Portfolio](https://shahmeer-akram-portfolio-sepia.vercel.app/) · [GitHub](https://github.com/Shah0x)
+
+</div>
